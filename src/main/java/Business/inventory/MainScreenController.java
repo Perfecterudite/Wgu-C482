@@ -62,7 +62,7 @@ public class MainScreenController implements Initializable {
      * On button press, save the part.
      * RUNTIME ERROR: Caused by: java.lang.NullPointerException: because this.mainPartTable was null
      * I corrected this runtime error by assigning the mainPartTable
-     * to the appropriate fx:id in the addPart fxml file
+     * to the appropriate fx:id in the addPart fxml file.
      *
      * @param actionEvent
      */
